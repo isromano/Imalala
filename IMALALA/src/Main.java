@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-        System.out.println("Bienvenido a Imalala SA, la mejor agencia de viajes");
+        System.out.println("Bienvenido a Imalala SA, la mejor agencia de viaje");
         ListaUsuarios listaUsuarios = new ListaUsuarios();
         listaUsuarios.anadirUsuario(new Usuario());
         
